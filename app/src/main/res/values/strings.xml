@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tugas4_drawer</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="deskription">aa</string>
+    <string name="ingredients">bb</string>
+    <string name="kategori">cc</string>
+    <string name="price">dd</string>
+    <string name="Harga_noken">ee</string>
+</resources>
